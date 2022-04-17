@@ -1,4 +1,6 @@
 # Verilog-TSRI_Lab 專案名稱 Project Completion
+![image](https://user-images.githubusercontent.com/64843338/163717750-747cce54-5dc6-48d9-aebc-c98eff5e48cd.png)
+
 Lab01-FA
 
 Lab02-MUX
