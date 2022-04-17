@@ -1,5 +1,4 @@
-# Verilog-TSRI_Lab
-# 專案名稱 Project Completion
+# Verilog-TSRI_Lab 專案名稱 Project Completion
 Lab01-FA
 
 Lab02-MUX
